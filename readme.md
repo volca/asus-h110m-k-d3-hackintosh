@@ -1,6 +1,20 @@
-My hackintosh build
+## My hackintosh build
 
-Catalina 10.15.7
+See [my blog](http://www.ooso.net/archives/793) for more details
+
+### Big Sur 11.0
+
+Boot with Opencore 0.6.3
+
+see directory efi-opencore-11.0
+
+### Catalina 10.15.7
+
+Boot with CLOVER 5126
+
+see directory efi-clover-10.15
+
+### Hardware
 
 * Intel i3 8100
 * ASUS h110m-k d3 MATX board (Add micro code to BIOS, support i3 8100)
@@ -10,4 +24,3 @@ Catalina 10.15.7
 * Fenvi FV-T919 BCM94360 WiFi/Bluetooth PCI-E card
 * Graphics: RX 560
 
-See [my blog](http://www.ooso.net/archives/793) for more details
