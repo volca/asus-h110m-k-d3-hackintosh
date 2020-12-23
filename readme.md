@@ -2,11 +2,11 @@
 
 See [my blog](http://www.ooso.net/archives/793) for more details
 
-### Big Sur 11.0
+### Big Sur 11.x
 
-Boot with Opencore 0.6.3
+Boot with Opencore 0.6.4
 
-see directory efi-opencore-11.0
+see directory efi-opencore-11.x
 
 ### Catalina 10.15.7
 
